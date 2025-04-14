@@ -1,0 +1,1 @@
+# Mac-Local-Latex-OCR
