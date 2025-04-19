@@ -27,4 +27,4 @@ which python
 
 ### 4. Put you python path and file path to macro
 
-![[macro.png]]
+![]([macro.png])
