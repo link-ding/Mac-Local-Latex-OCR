@@ -11,9 +11,6 @@ conda activate mac-local-latex-ocr
 ### 2. Install Requirements
 
 ```bash
-# Conda first (faster, fewer conflicts)
-conda install --file requirements.txt -c conda-forge -y
-# Pip fallback for any leftovers
 pip install -r requirements.txt
 ```
 
